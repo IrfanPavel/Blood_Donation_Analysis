@@ -6,10 +6,16 @@ One of the interesting aspects about blood is that it is not a typical commodity
 Amazingly, only around 5% of the eligible donor population actually donate (Linden, Gregorio et al. 1988, Katsaliaki 2008). This low percentage highlights the risk humans are faced with today as blood and blood products are forecasted to increase year-on-year. This is likely why so many researchers continue to try to understand the social and behavioral drivers for why people donate to begin with. The primary way to satisfy demand is to have regularly occurring donations from healthy volunteers.
 
 Aim Of Project:
+
 To build a model which can identify who is likely to donate blood again.
 Models implemented:
+
 Logistic Regression
+
 Suport Vector Machine
+
 Random Forest
+
 Decision Tree
+
 MLP Classifier
